@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId = "com.sunshine.freeform"
-        minSdk = 30
+        minSdk = 31
         targetSdk = 36
         versionCode = 4000
         versionName = "4.0.0"
